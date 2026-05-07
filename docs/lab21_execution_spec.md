@@ -1,10 +1,10 @@
-# Lab 21 - Spec thực thi để đạt điểm tối đa
+# Lab 21 - Spec thực thi
 
 ## 1. Mục tiêu đầu ra
 
-Mục tiêu của bài lab này là đạt **100 điểm chính + 15 điểm bonus = 115 điểm** với cấu hình đã chốt:
+Mục tiêu của bài lab này là đạt **100 điểm chính + 15 điểm bonus = 115 điểm** với cấu hình:
 
-- Hình thức nộp: **Option B - GitHub + HuggingFace Hub**.
+- Hình thức nộp: **GitHub + HuggingFace Hub**.
 - Dataset: **Option A - dataset mẫu Vietnamese Alpaca**.
 - Model chính: **Llama 3.2 3B Instruct**, key HF/Unsloth dự kiến: `unsloth/Llama-3.2-3B-Instruct-bnb-4bit`.
 - GPU: **Free Colab T4 16 GB**.
